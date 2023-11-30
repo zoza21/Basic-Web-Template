@@ -1,2 +1,4 @@
 # Basic-Web-Template
-Basic 5 page website template: HTML &amp; CSS
+Basic website template: HTML & CSS
+
+5 page website template, with responsive design. Using css grid and media queries. 
